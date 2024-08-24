@@ -1,5 +1,9 @@
 # Virtual-Farm
+
+![image](https://github.com/user-attachments/assets/4d2cd91f-cf39-4f1b-9a4c-7a9702b0e4ba)
+
 A simple environment in Unity with basic things mostly made for learning the basics of engine.
+<a href="https://trello.com/b/ctGJy3tX/farm-game-development-board">Trello for this Project</a>
 
 # Pushing the project to Github 
 ### (Reference for future unity projects)
