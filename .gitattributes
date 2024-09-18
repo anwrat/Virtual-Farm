@@ -1,0 +1,13 @@
+# Force GitHub to recognize C# as the main language
+*.cs linguist-language=C#
+
+# Mark ShaderLab, HLSL, and other shader files as vendored
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.hlsl linguist-vendored
+*.compute linguist-vendored
+
+# Exclude Unity-generated files from language statistics
+*.generated linguist-generated
+*.meta linguist-generated
+
