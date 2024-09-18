@@ -6,6 +6,7 @@
 *.cginc linguist-vendored
 *.hlsl linguist-vendored
 *.compute linguist-vendored
+*.glsl linguist-vendored
 
 # Exclude Unity-generated files from language statistics
 *.generated linguist-generated
